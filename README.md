@@ -19,7 +19,6 @@
 
 - 🔬 **Focus Area**: Machine Learning, Computer Vision, Mathematical Optimization, Computational Sensing
 - 🛠️ **Current Initiatives**: Designing deterministic vision architectures & algebraic operators, LLM Post-training (SFT / GRPO)
-- 📐 **Methodology**: Grounded in mathematical rigor (First Principles), readable code standards, and hardware-conscious zero-allocation execution
 - 🎯 **Target**: Bridging physical phenomena, mathematical foundations, and high-performance AI implementations
 
 ---
