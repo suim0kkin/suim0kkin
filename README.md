@@ -1,16 +1,4 @@
-<div align="center">
-
-<!-- Typing Header -->
-<a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm(suim0kkin)+%F0%9F%91%8B;Data+Scientist+%26+Machine+Learning+Engineer;Researching+Mathematical+Models+%26+Deep+Learning; alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suim0kkin&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/suim0kkin?label=Followers&style=flat-square&color=0ea5e9&logo=github" alt="Followers" />
-</p>
-
-</div>
+# Hi I'm O👋 
 
 ---
 
